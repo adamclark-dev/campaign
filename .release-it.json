@@ -8,7 +8,6 @@
     "publish": false
   },
   "src": {
-    "push": false,
-    "commit": false
+    "push": false
   }
 }
