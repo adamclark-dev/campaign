@@ -8,8 +8,8 @@
     "publish": false
   },
   "src": {
-    "push": true,
-    "commit": true,
+    "push": false,
+    "commit": false,
     "tag": true
   }
 }
