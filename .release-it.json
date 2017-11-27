@@ -6,8 +6,5 @@
   "changelogCommand": "git log --pretty=format:'* %s (%h)' [REV_RANGE]",
   "npm": {
     "publish": false
-  },
-  "src": {
-    "push": false
   }
 }
