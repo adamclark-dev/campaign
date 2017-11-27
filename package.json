@@ -1,6 +1,6 @@
 {
   "name": "campaign",
-  "version": "2.1.7",
+  "version": "2.1.8",
   "description": "> Drupal 8 profile for building enganging fundraising websites, maintained by [Comic Relief](https://www.comicrelief.com)",
   "main": "index.js",
   "directories": {
